@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AWS_LAMBDA_API_CRUD", "AWS_LAMBDA_API_CRUD\AWS_LAMBDA_API_CRUD.csproj", "{83CD7C6A-F614-48A5-B36C-115738E1B439}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWS_LAMBDA_API_CRUD.Tests", "AWS_LAMBDA_API_CRUD.Tests\AWS_LAMBDA_API_CRUD.Tests.csproj", "{3A4AB32E-C7AD-4305-BB1C-55C036867E5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83CD7C6A-F614-48A5-B36C-115738E1B439}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83CD7C6A-F614-48A5-B36C-115738E1B439}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83CD7C6A-F614-48A5-B36C-115738E1B439}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83CD7C6A-F614-48A5-B36C-115738E1B439}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A4AB32E-C7AD-4305-BB1C-55C036867E5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A4AB32E-C7AD-4305-BB1C-55C036867E5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A4AB32E-C7AD-4305-BB1C-55C036867E5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A4AB32E-C7AD-4305-BB1C-55C036867E5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBF0373E-7F86-4FCF-81DD-1B8EFD5B7CBD}
+	EndGlobalSection
+EndGlobal
